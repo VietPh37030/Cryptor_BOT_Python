@@ -1,0 +1,8 @@
+ccxt                 # Lấy bản mới nhất
+pandas               
+pandas_ta            
+scikit-learn         
+streamlit            
+plotly               
+textblob             
+watchdog
